@@ -6,13 +6,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=irtiza1" alt="irtiza1" /></a> </p>
 
-- 🔭 I’m currently working on **Professional Networking App**
+- 🔭 I’m currently working on **myself**
 
-- 🌱 I’m currently learning **Object-oriented programming**
+- 🌱 I’m currently learning **Data Science & Artificial intelligence**
 
 - 👯 I’m looking to collaborate on **Open Source Project**
 
-- 💬 Ask me about **UI/UX designing,programming**
+- 💬 Ask me about **anything you want :)**
 
 - 📫 How to reach me **irtiza.s2918@gmail.com**
 

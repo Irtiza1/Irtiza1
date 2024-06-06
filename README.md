@@ -73,11 +73,9 @@
   </a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=irtiza1&show_icons=true&locale=en" alt="irtiza1" /></p>
+<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=irtiza1&show_icons=true&locale=en" alt="irtiza1" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=irtiza1&" alt="irtiza1" /></p>
-
-### Projects and Dev Stuffs:
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=irtiza1&" alt="irtiza1" /></p>-->
 
 <details>
   <summary><b>⚡ Github Stats</b></summary>

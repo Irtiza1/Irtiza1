@@ -9,13 +9,14 @@
 ### 🧐 About Me:
 
 - 🔭 I’m currently working on **Data-Structure**
+  
 - 🌱 I’m currently exploring **Data Science & Artificial intelligence & Web-Development**
+  
 - 👯 I’m looking to collaborate on **Open Source Project**
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/rahul-jha98?tab=repositories)
+  
 - 💬 Ask me about **anything you want :)**
-- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/rahul-jha98/)
+  
 - 📫 How to reach me **irtiza.s2918@gmail.com**
-- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1ZpR5pVBTnl_Qybq7GE3MGy1SB1JehVSE/view?usp=sharing)
 <br>
 
 

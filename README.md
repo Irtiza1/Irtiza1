@@ -6,8 +6,8 @@
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
   
-### 🧐 More About Me:
-
+### 🧐 About Me:
+<!--
 - 🔭 &nbsp; I’m currently working on **youtube-audio-player**
 - 🤝 &nbsp; I’m looking to collaborate on [sheets-database](https://github.com/rahul-jha98/sheets-database)
 - 🌱 &nbsp; I’m currently learning Typescript; 
@@ -17,7 +17,17 @@
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/rahul-jha98/)
 - 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1ZpR5pVBTnl_Qybq7GE3MGy1SB1JehVSE/view?usp=sharing)
 - 📚 &nbsp; When I am free, I read fantasy and fiction novels. Checkout my [Goodreads](https://www.goodreads.com/rahul-jha98) to see the book I have read
+-->
+- 🔭 I’m currently working on **Data-Structure**
 
+- 🌱 I’m currently exploring **Data Science & Artificial intelligence & Web-Development**
+
+- 👯 I’m looking to collaborate on **Open Source Project**
+
+- 💬 Ask me about **anything you want :)**
+
+- 📫 How to reach me **irtiza.s2918@gmail.com**
+- 
 <br>
 
 

@@ -4,7 +4,7 @@
   
 ### 🧐 About Me:
 
-- 🔭 I’m currently working on **Data-Structure**
+- 🔭 I’m currently working on **Development Projects**
   
 - 🌱 I’m currently exploring **Data Science, Artificial intelligence, & Web-Development**
   

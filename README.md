@@ -1,12 +1,12 @@
-<h1>Hi 👋, I'm Muhammad Irtiza</h1>
+<h1>Hi 👋, I'm S. Muhammad Irtiza</h1>
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
   
 ### 🧐 About Me:
 
-- 🔭 I’m currently working on **Development Projects**
+- 🔭 I’m currently working as **Associate Software Engineer**
   
-- 🌱 I’m currently exploring **Data Science, Artificial intelligence, & Web-Development**
+- 🌱 I’m currently exploring **Data Science, Artificial intelligence**
   
 - 👯 I’m looking to collaborate on **Open Source Projects**
   

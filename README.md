@@ -6,9 +6,9 @@
 
 - 🔭 I’m currently working as **Associate Software Engineer**
   
-- 🌱 I’m currently exploring **Data Science, Artificial intelligence**
+- 🌱 I’m currently exploring **Data Science, Artificial intelligence domains**
   
-- 👯 I’m looking to collaborate on **Open Source Projects**
+- 👯 I’m looking to collaborate on **Open Source Projects & Research Assistance Opportunities**
   
 - 💬 Ask me about **anything you want :)**
   

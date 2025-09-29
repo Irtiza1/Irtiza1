@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mohammad Irtiza</h1>
 <h3 align="center">A Full-Stack Developer | AI & ML Enthusiast | Problem Solver</h3>
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
+<!-- <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/> -->
+<img align="right" alt="Coding" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+
 
 ### 🧐 About Me:
 

@@ -7,7 +7,7 @@
 
 ### 🧐 About Me:
 
-- 🔭 I’m currently working as an **Associate Software Engineer**  
+- 🔭 I’m currently working as an **Full Stack Developer**  
 - 🌱 Exploring and building projects in **Machine Learning, Artificial Intelligence, and Full-Stack Development**  
 - 👯 Open to collaborating on **Open Source, Research Projects, and Innovative Hackathon Ideas**  
 - 🏆 Finalist at **FASSET Blockchain Fest 2024** | Top 5 at **AIIC 2024** | **Aspire Leadership Program** Alumnus  
